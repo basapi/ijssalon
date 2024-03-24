@@ -1,5 +1,3 @@
 print("hallo wereld !")
 print("welkom in onze ijssalon")
-print("Under construction")
-print("hallo")
 print("under construction hw opgave 4")
